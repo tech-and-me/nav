@@ -1,0 +1,30 @@
+Task 1 - Requirements
+------------------------------------------------------------------------------------------------------
+
+This task tests the applicant's ability to code a solution using HTML and CSS that matches a supplied UI Design or mockup.
+
+
+Requirements:
+1) Provide a HTML stucture that provides the expected layout
+2) Provide styles that work with the HTML structure to provide the expected look and feel
+3) Provide the solution is as simple a form as possible:
+	- This is not a test of whether a skeleton framework or project generation tool can be used (no NodeJS/React etc projects)
+	- The intention is to test the applicant's skills with raw/basic HTML and CSS understanding and thinking at low-level
+	- A single HTML file with included or linked CSS/styles is all that is required (just want to see the attempt by opening the HTML file in a browser locally)
+4) The result needs to show:
+	- The expected Header items/elements (logo, menu items, shortcuts links, notifications etc)
+	- Indication for active page/menu item
+	- Indication of dropdown menu/s
+
+
+NOTE: 
+- Attention to detail is important, but note that exact match of fonts and icons is not important (just use something that conveys the same intention)
+- Typically a separate asset would be provided for the logo, but for th purposes of this task you can just crop it from the supplied UI mockup/design
+
+
+Bonus points for (but not expected):
+- Providing a responsive solution
+- Providing funtional dropdown menus
+- Use of a CSS preprocessor (but both processed and non-processed style files should be supplied)
+
+
